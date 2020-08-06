@@ -1,0 +1,12 @@
+__pycache__/
+**/__pycache__/
+*.pyc
+**/*.pyc
+tmp/
+models/
+build/
+.vs/
+*.h5
+*.tif
+*.tiff
+*.pickle

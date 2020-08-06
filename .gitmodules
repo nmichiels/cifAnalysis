@@ -1,0 +1,6 @@
+[submodule "cifDataset"]
+	path = cifDataset
+	url = nmichiels@git.exascience.org:/var/cache/git/nmichiels/cifDataset
+[submodule "stitching"]
+	path = stitching
+	url = https://github.com/CellProfiler/stitching.git
