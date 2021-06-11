@@ -8,7 +8,7 @@ The requirements file in this repository contains the dependencies for a working
 Tested with Python 3.7
 
 
-Make sure to pull the CifDataset submodule `git pull --recurse-submodules` and follow the install instructions of the readme of the submodule.
+Make sure to pull the [CifDataset](https://github.com/nmichiels/cifDataset) submodule `git pull --recurse-submodules` and follow the install instructions of the readme of the submodule.
 
 Install all the requirements by:
 ```
