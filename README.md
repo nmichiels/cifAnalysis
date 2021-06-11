@@ -75,3 +75,10 @@ Examples on how to visualize data using opencv are given in this scripts:
 ```
 python showDataset.py
 ```
+
+## Acknowledgements
+This work is executed in the context of the ImmCyte project (VLAIO R&D project nr: HBC.2016.0889). 
+
+## License
+Copyright © 2021, [Nick Michiels](https://www.nickmichiels.com).
+Released under the [BSD 3-Clause License](LICENSE).
