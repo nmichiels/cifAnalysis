@@ -10,7 +10,7 @@ Tested with Python 3.7
 
 Make sure to pull the [CifDataset](https://github.com/nmichiels/cifDataset) submodule `git pull --recurse-submodules` and follow the install instructions of the readme of the submodule.
 
-Install all the requirements by:
+Install all the requirements:
 ```
 pip install -r requirements.txt
 ```
